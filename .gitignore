@@ -1,0 +1,10 @@
+.history
+.DS_Store
+.history/scripts
+model/lstm_sentiment.keras
+notebooks/text_classification_pytorch.ipynb
+data
+data/Spam Email raw text for NLP.csv
+data/twitter-sentiment-analysis-hate-speech.csv
+notebooks/glove.6B.50d.txt
+notebooks/glove.6B.100d.txt
